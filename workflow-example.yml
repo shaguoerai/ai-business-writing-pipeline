@@ -1,0 +1,73 @@
+# GitHub Actions Workflow Example
+# Copy this file to .github/workflows/ai-writing.yml to enable automation
+
+name: AI Writing Automation
+
+on:
+  schedule:
+    # Run every Monday at 9 AM UTC
+    - cron: '0 9 * * 1'
+    
+    # Run every weekday at 8 AM UTC for daily content
+    - cron: '0 8 * * 1-5'
+  
+  # Allow manual triggering
+  workflow_dispatch:
+    inputs:
+      content_type:
+        description: 'Type of content to generate'
+        required: true
+        default: 'email'
+        type: choice
+        options:
+        - email
+        - proposal
+        - report
+        - social_media
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install openai python-dotenv
+        
+    - name: Configure environment
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      run: |
+        # Create .env file if API key is provided
+        if [ -n "$OPENAI_API_KEY" ]; then
+          echo "OPENAI_API_KEY=$OPENAI_API_KEY" > .env
+          echo "✅ OpenAI API key configured"
+        else
+          echo "⚠️  No OpenAI API key found. Using template mode only."
+          echo "# Add your OpenAI API key to GitHub Secrets" > .env
+          echo "# OPENAI_API_KEY=your_key_here" >> .env
+        fi
+        
+    - name: Generate example content
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      run: |
+        echo "📝 Generating example content..."
+        
+        # Generate a professional email template
+        python scripts/generate-content.py \
+          --type email \
+          --recipient "team@company.com" \
+          --topic "Daily Standup Reminder" \
+          --key-points "Today's priorities,Blockers to discuss,Action items"
+          
+        echo "✅ Example content generated in output/ directory"
