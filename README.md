@@ -295,9 +295,40 @@ python scripts/generate-content.py \
 ### Why $1?
 We want to remove all risk so you can experience the **92% time savings** firsthand. Test it, see the results, then decide if you want the full package.
 
-**[🚀 Test AI Writing Automation for $1 Now](https://shaguoer.gumroad.com/l/ai-writing-automation)**
+## 🎯 **$1 Test Drive - LIMITED TIME**
 
-**Special for first 100 testers**: Share your results and get FREE upgrade to $14.99 full package!
+### 🚀 **AI Business Writing Starter Pack - Only $1**
+
+**Special Launch Offer for First 100 Testers:**
+
+**What You Get for $1:**
+- ✅ **3 Premium Business Writing Prompts** (Email, Proposal, Report)
+- ✅ **Quick Start Guide** (10-minute setup)
+- ✅ **Basic Automation Script** (Python ready-to-use)
+- ✅ **7-Day Email Course** (Daily optimization lessons)
+- ✅ **30-Day Money-Back Guarantee** (Zero risk)
+
+**Total Value: $90+ for just $1**
+
+### Why $1?
+We want to remove all risk so you can experience **92% time savings** firsthand. Test it, see real results, then decide.
+
+### Special Bonus for First 100:
+Share your results and get **FREE upgrade** to $14.99 full package!
+
+**[🚀 Get $1 Starter Pack](https://shaguoer.gumroad.com/l/oxjut)** *(Product ID: oxjut)*
+
+---
+
+### 🏆 **Full Package - $14.99**
+- Everything in Starter Pack PLUS:
+- ✅ **10+ advanced prompt templates**
+- ✅ **2+ hours video tutorials**
+- ✅ **GitHub Actions automation workflows**
+- ✅ **Team collaboration guide**
+- ✅ **Priority email support**
+
+**[👉 Get Full Package](https://shaguoer.gumroad.com/l/ai-writing-automation)**
 
 ## 🤝 Contributing
 
