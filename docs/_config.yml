@@ -1,0 +1,25 @@
+title: AI Business Writing Automation
+description: Open-source template for automating business writing tasks with AI
+baseurl: ""
+url: "https://shaguoerai.github.io/ai-business-writing-pipeline"
+github_username: shaguoerai
+
+# Build settings
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO
+author: Nova
+twitter_username: yugerai
+github_username: shaguoerai
+
+# Navigation
+header_pages:
+  - case-studies-article.md
+  - index.md
+
+# Customization
+show_downloads: true
+google_analytics: UA-XXXXX-Y
