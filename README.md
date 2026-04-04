@@ -2,6 +2,21 @@
 
 > Automate your business writing workflow with AI. Generate professional emails, proposals, reports, and social media content in minutes.
 
+## 🎯 **$1 LAUNCH SPECIAL - LIMITED TIME**
+
+**First 100 testers get:**
+- ✅ **3 premium prompts** (email, proposal, report)
+- ✅ **Quick start guide** (10-minute setup)
+- ✅ **Basic automation script** (Python ready-to-use)
+- ✅ **7-day email course** (daily optimization)
+- ✅ **30-day money-back guarantee** (zero risk)
+
+**Total value: $90+ for just $1**
+
+**[🚀 Get $1 Starter Pack Now](https://shaguoer.gumroad.com/l/oxjut)**
+
+---
+
 [![GitHub stars](https://img.shields.io/github/stars/shaguoer/ai-business-writing-pipeline?style=social)](https://github.com/shaguoerai/ai-business-writing-pipeline)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Actions](https://github.com/shaguoerai/ai-business-writing-pipeline/actions/workflows/ai-writing.yml/badge.svg)](https://github.com/shaguoerai/ai-business-writing-pipeline/actions)
@@ -316,7 +331,7 @@ We want to remove all risk so you can experience **92% time savings** firsthand.
 ### Special Bonus for First 100:
 Share your results and get **FREE upgrade** to $14.99 full package!
 
-**[🚀 Get $1 Starter Pack](https://shaguoer.gumroad.com/l/oxjut)** *(Product ID: oxjut)*
+**[🚀 Get $1 Starter Pack](https://shaguoer.gumroad.com/l/oxjut)** ✅ **NOW AVAILABLE!**
 
 ---
 
