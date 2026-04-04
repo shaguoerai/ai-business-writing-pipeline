@@ -269,14 +269,35 @@ python scripts/generate-content.py \
 - [Advanced Configuration](https://github.com/shaguoerai/ai-business-writing-pipeline/wiki) - Custom workflows and integrations
 - [Community Examples](https://github.com/shaguoerai/ai-business-writing-pipeline/discussions) - Real-world use cases
 
-### Premium Package ($14.99)
-Get the complete package with:
-- **🎥 Video tutorials** (2+ hours of step-by-step guidance)
-- **⚙️ Advanced configuration examples** (team workflows, custom integrations)
-- **👥 Team collaboration guide** (scale across your organization)
-- **🚨 Priority support** (direct access for questions)
+## 🎯 Special Launch Offer: $1 Test Drive
 
-[👉 Get Premium Package](https://shaguoer.gumroad.com/l/ai-writing-automation)
+### Test AI Business Writing Automation Risk-Free
+
+**Limited Time**: First 100 testers get special bonuses
+
+#### 🚀 **Starter Pack - Only $1**
+- ✅ 3 premium business writing prompts ($27 value)
+- ✅ Quick start guide to AI automation ($19 value)
+- ✅ Basic email automation template ($15 value)
+- ✅ 7-day email course ($29 value)
+- ✅ Community access for support
+
+**Total value: $90+ for just $1**
+
+#### 🏆 **Full Package - $14.99**
+- Everything in Starter Pack PLUS:
+- ✅ 10+ advanced prompt templates
+- ✅ 2+ hours video tutorials
+- ✅ GitHub Actions automation workflows
+- ✅ Team collaboration guide
+- ✅ Priority support
+
+### Why $1?
+We want to remove all risk so you can experience the **92% time savings** firsthand. Test it, see the results, then decide if you want the full package.
+
+**[🚀 Test AI Writing Automation for $1 Now](https://shaguoer.gumroad.com/l/ai-writing-automation)**
+
+**Special for first 100 testers**: Share your results and get FREE upgrade to $14.99 full package!
 
 ## 🤝 Contributing
 
