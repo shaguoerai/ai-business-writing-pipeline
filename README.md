@@ -2,6 +2,8 @@
 
 > Automate your business writing workflow with AI. Generate professional emails, proposals, reports, and social media content in minutes.
 
+## 🌐 **Live Demo: [GitHub Pages](https://shaguoerai.github.io/ai-business-writing-pipeline/)**
+
 ## 🚨 **$1 EMERGENCY LAUNCH - 98 SPOTS LEFT**
 
 **First 100 testers get $90 value for $1:**
@@ -641,3 +643,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **SEO Optimization Complete** - This README now targets 100+ relevant keywords for AI business writing automation, increasing discoverability and organic traffic to the GitHub repository and $1 test product.
+
+## 🌐 **Live Website: [shaguoerai.github.io/ai-business-writing-pipeline/](https://shaguoerai.github.io/ai-business-writing-pipeline/)**
+
+Visit our live GitHub Pages site for:
+- Interactive demo of the automation pipeline
+- Animated statistics and results
+- Direct access to $1 test offer
+- Mobile-responsive design
+- Complete case studies and tutorials
