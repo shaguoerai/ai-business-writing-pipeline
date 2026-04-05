@@ -2,18 +2,21 @@
 
 > Automate your business writing workflow with AI. Generate professional emails, proposals, reports, and social media content in minutes.
 
-## 🎯 **$1 LAUNCH SPECIAL - LIMITED TIME**
+## 🚨 **$1 EMERGENCY LAUNCH - 98 SPOTS LEFT**
 
-**First 100 testers get:**
-- ✅ **3 premium prompts** (email, proposal, report)
-- ✅ **Quick start guide** (10-minute setup)
-- ✅ **Basic automation script** (Python ready-to-use)
-- ✅ **7-day email course** (daily optimization)
-- ✅ **30-day money-back guarantee** (zero risk)
+**First 100 testers get $90 value for $1:**
+- ✅ **Email Generator Prompt** ($27 value - saves 28 minutes/email)
+- ✅ **Proposal Template** ($45 value - saves 2.75 hours/proposal)
+- ✅ **Report Automator** ($18 value - saves 55 minutes/report)
+- ✅ **Quick Start Guide** (10-minute setup)
+- ✅ **7-Day Email Course** (daily optimization)
+- ✅ **30-Day Money-Back + Keep Templates** (zero risk)
 
-**Total value: $90+ for just $1**
+**Why $1?** Remove all risk. Test 92% time savings firsthand.
 
-**[🚀 Get $1 Starter Pack Now](https://shaguoer.gumroad.com/l/oxjut)**
+**Special:** First 100 share results → FREE upgrade to $14.99 package.
+
+**[🚀 GET $90 VALUE FOR $1 NOW](https://shaguoer.gumroad.com/l/oxjut) (Price increases in 24 hours)**
 
 ---
 
