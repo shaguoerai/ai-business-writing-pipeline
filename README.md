@@ -1,10 +1,16 @@
 # AI-Powered Business Writing Pipeline 🚀
 
-> Automate 92% of your business writing workflow. Generate professional emails, proposals, reports, and social media content in minutes.
+> **Save 92% of your business writing time.** Automate emails, proposals, reports, and social media content in minutes. Get $90 value for $1 during our emergency launch.
 
 [![GitHub stars](https://img.shields.io/github/stars/shaguoerai/ai-business-writing-pipeline?style=social)](https://github.com/shaguoerai/ai-business-writing-pipeline)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Actions](https://github.com/shaguoerai/ai-business-writing-pipeline/actions/workflows/ai-writing.yml/badge.svg)](https://github.com/shaguoerai/ai-business-writing-pipeline/actions)
+
+### 🚨 **$1 Emergency Launch - Limited Time Offer**
+
+**Why $1?** We need 100 early testers to validate our 92% time savings claim. You get $90 value with zero risk (30-day money-back guarantee).
+
+**[👉 Get $90 Value for $1 Now](https://shaguoer.gumroad.com/l/oxjut)**
 
 ## 📋 Table of Contents
 - [✨ What Problem Does This Solve?](#-what-problem-does-this-solve)
@@ -197,19 +203,26 @@ templates:
 ### Emergency Launch Offer
 > **$1 for $90 Value** - First 100 testers only
 
+### 🚨 **$1 Emergency Launch Offer**
+
+**We need 100 testers in 30 days** to validate our 92% time savings claim. You benefit with $90 value for only $1.
+
 **What you get for $1:**
 - ✅ **Email Generator Prompt** ($27 value - saves 28 minutes/email)
 - ✅ **Proposal Template** ($45 value - saves 2.75 hours/proposal)
 - ✅ **Report Automator** ($18 value - saves 55 minutes/report)
 - ✅ **Quick Start Guide** (10-minute setup)
-- ✅ **7-Day Email Course** (daily optimization tips)
+- ✅ **7-Day Optimization Course** (daily tips)
 - ✅ **30-Day Money-Back Guarantee** (zero risk)
 
-**Why $1?** We want you to experience the 92% time savings firsthand with zero risk.
+**Why only $1?**
+1. **We need validation** - Real user results are more valuable than money right now
+2. **You get zero risk** - 30-day guarantee means you can't lose
+3. **Limited time** - Price increases to $14.99 after 100 testers
 
-**Special Bonus:** First 100 testers who share their results get FREE upgrade to the $14.99 package.
+**Special Bonus:** First 50 testers who share their results get **lifetime access** to all future updates.
 
-**[🚀 Get $90 Value for $1 Now](https://shaguoer.gumroad.com/l/oxjut)** *(98 spots remaining)*
+**[👉 Get $90 Value for $1 Now](https://shaguoer.gumroad.com/l/oxjut) - Limited spots remaining**
 
 ### ROI Calculation Example
 | Task | Manual Time | AI Time | Time Saved | Value |
